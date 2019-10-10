@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Material 7</string>
+    <string name="bottom_activity">Bottom Activity</string>
+    <string name="tab_activity">Tab Activity</string>
 </resources>
